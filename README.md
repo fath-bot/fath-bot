@@ -12,7 +12,7 @@ a passionate and detail-oriented Web Developer, UI/UX Designer, and Bug Bounty H
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Pethxv)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fathaulia)
-
+<!--
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fath-bot/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -21,7 +21,7 @@ a passionate and detail-oriented Web Developer, UI/UX Designer, and Bug Bounty H
   </picture>
 </div>
 
-<!-- # 💻 Tech Stack:
+ # 💻 Tech Stack:
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white) 
