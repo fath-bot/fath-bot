@@ -8,8 +8,8 @@ A passionate and detail-oriented developer with a strong interest in **penetrati
 ## 💫 About Me
 
 - 🎓 Currently studying **Information Technology (S1)** at **Telkom University**  
-- 🧑🏻‍💻 Interning at **BPKP Center**  
-- 🌱 Always learning: currently diving deeper into **API development, Flutter, and Laravel**  
+- 🧑🏻‍💻 I have completed my internship at **BPKP Center**  
+- 🌱 Always learning: currently diving deeper into **API development, Flutter, Laravel and Cybersec**  
 - 📫 Reach me via email: **fath.aul47@gmail.com**
 
 ---
